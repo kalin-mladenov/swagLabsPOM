@@ -1,5 +1,5 @@
 This is a demo project for automation testing https://www.saucedemo.com/
-Project is written in Page Object Model.
+Page Object Model design pattern is used in the project.
 Technologies used in the project are:
 * Java
 * Maven
